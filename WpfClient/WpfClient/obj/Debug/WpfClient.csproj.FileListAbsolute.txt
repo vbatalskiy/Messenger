@@ -1,0 +1,13 @@
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\Views\LogonWindowView.baml
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\Views\MainWindowView.baml
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\Views\LogonWindowView.g.cs
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\Views\MainWindowView.g.cs
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\App.g.cs
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\WpfClient.g.resources
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.Cache
+P:\Github\Messenger-master\WpfClient\WpfClient\bin\Debug\WpfClient.exe
+P:\Github\Messenger-master\WpfClient\WpfClient\bin\Debug\WpfClient.pdb
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\WpfClient.exe
+P:\Github\Messenger-master\WpfClient\WpfClient\obj\Debug\WpfClient.pdb
